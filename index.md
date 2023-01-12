@@ -4,7 +4,7 @@ Hello, my name is Dhaivat
 # Name
 ## Heading
 > hola
-*a = 5
-*b = 6
-*a = 5
+- a
+- b
+- c
 `this is an inline code` 
