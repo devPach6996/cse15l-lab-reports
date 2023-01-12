@@ -7,4 +7,4 @@ Hello, my name is Dhaivat
 - a
 - b
 - c
-`this is an inline code` 
+`this is an inline code`
