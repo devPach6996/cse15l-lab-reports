@@ -20,13 +20,22 @@
   7. After you have typed the password correctly, It should show something like this:
       ![image](https://user-images.githubusercontent.com/122571122/212422517-890edc73-f7c6-495e-ac54-c11b5e3043a4.png)
   ### Hooray! You have successfully connected your computer to the remote Computer. Well Done!
-## Now, Let's Try some amazing Commands, So we don't have to USE our mouse everytime because We don't have enough time.
-  1. `cd ~`
-  2. `cd`
-  3. `ls -lat`
-  4. `ls -a`
-  5. `cp`
-  6. `cat`
+  * `cd ~`
+     Takes you to the home directory.  
+  * `cd`
+     Changes the directory from the present direcotory to the directory mentioned after `cd`
+  * `ls`
+     displays all the file present in the direcotory 
+  * `ls -lat`
+     Displays all the file including the hidden files with their name, time created, and size.
+  * `ls -a`
+      Displays all the file including the hidden files with their name
+  * `cp`
+  * `cat`
+      Displays the content in the given file
+  * `pwd`
+      print the current directory you are working in.    
+  
 
  
     
