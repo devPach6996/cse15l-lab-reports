@@ -7,5 +7,18 @@
 ## Step 2: Installing VS code
   Please follow this [link](https://code.visualstudio.com/) to download VScode apporpriate for your Operating System.
   * You should see a picture like this below:
+    ![VScodeStart](https://user-images.githubusercontent.com/122571122/212420079-e26722fa-de64-49cb-9de8-86e154e0704d.png)
+## Step 3: Connecting Remotely
+  1. You need to install Git for Windows
+     Follow this [Link for installing Git](https://gitforwindows.org/)
+  2. Now you need to set your default terminal to use the git bash in Visual Studio Code
+     Follow this [Tutorial for using GitBash for VSCODE](https://stackoverflow.com/a/50527994)
+  3. Now Using Ctrl/Command + \` Or Terminal --> New Terminal from the taskbar, open a new Terminal Window
+  4. Type `ssh cs15lwi23aa@ieng6.ucsd.edu` on your terminal. Instead of `aa`, you should use your CSE 15L account.
+  5. If everything worked fine, it should ask you if you will want to continue connecting. You should say `yes`.
+  6. Then, you should enter your password. **Be Careful: Even if you press key on the keyboard, it may not show it typed the password on the terminal. But, it DOES type the password.**
+  7. After you have typed the password correctly, It should show something like this:
+      
+
     
     
