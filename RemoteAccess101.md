@@ -19,7 +19,7 @@
   6. Then, you should enter your password. **Be Careful: Even if you press key on the keyboard, it may not show it typed the password on the terminal. But, it DOES type the password.**
   7. After you have typed the password correctly, It should show something like this:
       ![image](https://user-images.githubusercontent.com/122571122/212422517-890edc73-f7c6-495e-ac54-c11b5e3043a4.png)
-  ## Hooray! You have successfully connected your computer to the remote Computer. Well Done!
+## Hooray! You have successfully connected your computer to the remote Computer. Well Done!
   * `cd ~`
      Takes you to the home directory.  
   * `cd`
@@ -35,8 +35,8 @@
   * `cat`
       Displays the content in the given file
   * `pwd`
-      print the current directory you are working in.    
-  ## Here is the screenshot of some commands that you can try
+      print the current directory you are working in.   
+## Here is the screenshot of some commands that you can try
   ![image](https://user-images.githubusercontent.com/122571122/212558689-c82022c4-b948-4188-94b5-ca18184aab6a.png)
   ![image](https://user-images.githubusercontent.com/122571122/212558766-02103885-2b25-48c5-90a1-9d8ae8608511.png)
   ![image](https://user-images.githubusercontent.com/122571122/212558855-c4ddda6c-9faa-464f-855f-c4c55352234c.png)
