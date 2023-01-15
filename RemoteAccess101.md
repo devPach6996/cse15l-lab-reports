@@ -31,6 +31,7 @@
   * `ls -a`
       Displays all the file including the hidden files with their name
   * `cp`
+      Copies one file into another
   * `cat`
       Displays the content in the given file
   * `pwd`
