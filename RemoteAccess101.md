@@ -35,6 +35,12 @@
       Displays the content in the given file
   * `pwd`
       print the current directory you are working in.    
+  ## Here is the screenshot of some commands that you can try
+  ![image](https://user-images.githubusercontent.com/122571122/212558689-c82022c4-b948-4188-94b5-ca18184aab6a.png)
+  ![image](https://user-images.githubusercontent.com/122571122/212558766-02103885-2b25-48c5-90a1-9d8ae8608511.png)
+  ![image](https://user-images.githubusercontent.com/122571122/212558855-c4ddda6c-9faa-464f-855f-c4c55352234c.png)
+
+
   
 
  
