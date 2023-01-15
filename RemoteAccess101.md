@@ -19,7 +19,7 @@
   6. Then, you should enter your password. **Be Careful: Even if you press key on the keyboard, it may not show it typed the password on the terminal. But, it DOES type the password.**
   7. After you have typed the password correctly, It should show something like this:
       ![image](https://user-images.githubusercontent.com/122571122/212422517-890edc73-f7c6-495e-ac54-c11b5e3043a4.png)
-  ### Hooray! You have successfully connected your computer to the remote Computer. Well Done!
+  ## Hooray! You have successfully connected your computer to the remote Computer. Well Done!
   * `cd ~`
      Takes you to the home directory.  
   * `cd`
