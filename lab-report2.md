@@ -31,8 +31,13 @@ class StringServer {
 ```
 ## When we pass `Hello` to `handleRequest`
 ![image](https://user-images.githubusercontent.com/122571122/215283776-d1c43fa9-0a18-47b8-8b2b-3ae229682c7c.png)
-
+* In the above codeblock, `handleRequest` method is called
+* Since, it takes a string as a parameter, it can take any `int`, `URI`, and `Strings`
+* No values change the specific requests because the value takes a string parameter
 ## When we pass `How are you` to `handleRequest`
+* In the above codeblock, `handleRequest` method is called
+* Since, it takes a string as a parameter, it can take any `int`, `URI`, and `Strings`
+* Here, the value, which was passed in the earlier request stays there and the new request gets written below the previois one.
 ![image](https://user-images.githubusercontent.com/122571122/215283808-166af5e0-36f7-4fa6-b3b2-d199d1c58a8e.png)
 #Part 2:-
 ## Failure inducing input
@@ -81,3 +86,5 @@ class StringServer {
   }
  ```
  * After fixing the bugs, I was able to solve the problem of not getting a new reversed array. Also, the order of assignment and the return value for the method was also changed, whcih helped me fix the program.
+# Part 3:
+* From week 2 and 3, I learned how professional programmers debug their programs and I also learned to write my own test, which sort of made my life very easier to     debug the code. Now, I don't have to run my program a thousand times to see what causes the error. 
