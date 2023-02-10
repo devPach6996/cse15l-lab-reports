@@ -1,7 +1,7 @@
-#Lab Report 3
+# Lab Report 3
 ## Exploring Options For grep command in linux
-1) grep -i
-    This options allows the user to search throgh a file for a string ignoring the case of the word. For example, if we want to search for "the", it will return all the files
+1) `grep -i` 
+  * This options allows the user to search throgh a file for a string ignoring the case of the word. For example, if we want to search for "the", it will return all the files
     containing the string "the," "The," "thE," and "tHe." Moreover, it also includes substrings, such as the output will also highlight the word "Theatre."
     * Let's try it in one of the files in `./written_2` directory
     * ![image](https://user-images.githubusercontent.com/122571122/218204918-1146bf29-fb85-4127-ad2a-fa37e5c5175c.png)
