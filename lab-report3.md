@@ -20,7 +20,7 @@
    * But, we can see that it also prints the unnecessary texts, which we don't want. To avoid that, we can use `-o` and `-w` to get the line of a whole word without            printing unwanted text. Let's try to find the word and the line number of `hold`
    *  ![image](https://user-images.githubusercontent.com/122571122/218275627-d7045ec4-48c1-43b7-a0ab-ac50bc907f51.png)
 
-## 3) `grep -l`
+## 3) `grep -l` 
  * Sometimes we just want to know the name of the files, which contains the desired string we want. `grep -l` is the best command for that.
    * Let's try it in one of the files in `./written_2` directory
    * If we want to find the file name that contains the string Amsterdam, we can do the following:
