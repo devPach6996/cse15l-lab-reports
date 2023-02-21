@@ -32,7 +32,7 @@
    * As we can notice, this command is case sensitive unlike `grep -i`, So, we can use grep -i before -l to make it igonore the cases.
    * ![image](https://user-images.githubusercontent.com/122571122/218348857-646008b4-22bc-4939-abeb-83b2fe5cd8d9.png)
    * Here, it ignored the `C` in `computer.`
-## 4) `grep -v` 
+## 4 `grep -v` 
  * It retunrs the lines that are not containing the string that we pass. 
  * Here is an illustration of the command:
  * ![image](https://user-images.githubusercontent.com/122571122/218349664-77f08ca1-70dd-4e87-8e3a-ebebee78f4f5.png)
