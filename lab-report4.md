@@ -24,9 +24,11 @@
 5) Run the tests, demonstrating that they fail
   * Pressed Ctrl+R to get the prompt to write the name of the command on the remote computer
   * KeyPressed `javac<enter>` 
+  * This one compiled the program
   * ![image](https://user-images.githubusercontent.com/122571122/221329341-117dbab4-2a95-46dc-a495-623dc5710c7b.png)
   * Pressd Ctrl+R again
   * KeyPressed `java<space><enter>`
+  * This one ran the tests
   * ![image](https://user-images.githubusercontent.com/122571122/221329404-f2fed9a0-b8ce-4c0e-8fc6-799420702ef0.png)
   * ![image](https://user-images.githubusercontent.com/122571122/221329423-af92d78b-331b-410a-87b8-acde612ce5ae.png)
 
