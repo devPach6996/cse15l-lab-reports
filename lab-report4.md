@@ -6,6 +6,7 @@
    * ![image](https://user-images.githubusercontent.com/122571122/221327769-9e97ba1b-7c0b-4e88-aed2-03be04ba96f6.png)
    
    * In this step, I am deleting the existing repository. 
+ 
 2) Forking the repository-lab7.
   * ![image](https://user-images.githubusercontent.com/122571122/221327916-ebf64ba3-b1e4-44a4-a083-aa3a324f5425.png)
   
@@ -16,11 +17,13 @@
   * ![image](https://user-images.githubusercontent.com/122571122/221328180-29acdc84-be9f-4ae4-a0ea-15825648d982.png)
   * KeyPressed: `ssh<enter>`
   * Description: I typed `ssh` and then pressed enter to log in. It didn't asked for the password because I had the key setup.
+
 4) Clone your fork of the repository from your Github account
   * Pressed Ctrl+R to get the prompt to write the name of the command on the remote computer
   * ![image](https://user-images.githubusercontent.com/122571122/221329140-7815cc8b-92e5-4564-aa9d-9c0dc6d78b55.png)
   * KeyPressed: `git<space>cl<enter>`
   * ![image](https://user-images.githubusercontent.com/122571122/221329180-f07ef92f-fd67-4bad-8701-c65079c1db72.png)
+
 5) Run the tests, demonstrating that they fail
   * Pressed Ctrl+R to get the prompt to write the name of the command on the remote computer
   * KeyPressed `javac<enter>` 
