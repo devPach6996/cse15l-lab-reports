@@ -19,7 +19,7 @@
 4) Clone your fork of the repository from your Github account
   * Pressed Ctrl+R to get the prompt to write the name of the command on the remote computer
   * ![image](https://user-images.githubusercontent.com/122571122/221329140-7815cc8b-92e5-4564-aa9d-9c0dc6d78b55.png)
-  * KeyPressed: `git<space><enter>`
+  * KeyPressed: `git<space>cl<enter>`
   * ![image](https://user-images.githubusercontent.com/122571122/221329180-f07ef92f-fd67-4bad-8701-c65079c1db72.png)
 5) Run the tests, demonstrating that they fail
   * Pressed Ctrl+R to get the prompt to write the name of the command on the remote computer
