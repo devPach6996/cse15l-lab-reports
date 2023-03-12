@@ -21,6 +21,6 @@
 * This script will push all the code with corrected output to the remote account.
 * ![image](https://user-images.githubusercontent.com/122571122/224517450-b31b19ee-4194-4f38-b88f-98d4ee75742e.png)
 
-* Here is the working script that pushes the corrected repo to the remore account.
+* Here is the working script that pushes the corrected repo to the remote account.
 * ![image](https://user-images.githubusercontent.com/122571122/224517426-f86554d5-3857-4f8b-9ba6-4a603a1947b7.png)
 
